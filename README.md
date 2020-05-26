@@ -7,3 +7,7 @@
 5. program.cs - calls window service (Service1.cs)
 6. service1.cs - Caling external API to store on Windows credential manager and sqllite database
 
+The code is non-functional. I have to download Nuget Library to store on windows credential manager.
+
+I did not able to implement - Option to view, sort and clear data from SQLite.
+
